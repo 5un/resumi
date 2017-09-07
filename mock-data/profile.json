@@ -1,0 +1,233 @@
+{
+  "firstname": "John",
+  "lastname": "Doe",
+  "tagline": "Masters student with 5 years of fullstack development experience \nseeking internship position in user experience design.",
+  "email": "jdoe@example.com",
+  "website": "jdoe.example.com",
+  "github": "github.com/jdoe",
+  "phone": "+1 999 999 9999",
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Master of Information Management and Systems",
+      "graduation": "2019 (Anticipated)",
+      "focus": "Human-centered Design, Usability, User Research",
+      "useShortGraduationForm": true
+    },
+    {
+      "institution": "Chulalongkorn University Continuing Education",
+      "degree": "Junior MBA Certificate",
+      "year": "2014",
+      "graduation": "2014",
+      "useShortGraduationForm": true
+    },
+    {
+      "institution": "Chulalongkorn University",
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "honors": "1st Class Honors",
+      "year": "2012",
+      "gpa": "3.68",
+      "description": "1st Class Honors",
+      "graduation": "2012",
+      "useShortGraduationForm": true
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Acme Incorporated",
+      "position": "Product Manager",
+      "time": "2014 - 2017",
+      "location": "San Francisco, CA",
+      "points": [
+        "Successfully managed over 10 web/mobile projects for clients in private and public sector of Thailand",
+        "Parter with clients to determine design solution crafted towards their users and business requirements",
+        "Produce wireframes, high-fidelity mockups and conduct user research (interviews, focus groups, card sorting) for client projects",
+        "Supervise a team of developers to meet development goals.",
+        "Design overall corporate brand identity, produce branding and PR materials such as logo, business card, pitch decks and video reels"
+      ]
+    },
+    {
+      "company": "ECMA Inc.",
+      "position": "Senior Application Developer,\nApplication Developer",
+      "time": "2013 - 2014\n2012 - 2013",
+      "location": "New York, NY",
+      "points": [
+        "Prototype and develop customized solutions for marketing and communications including mobile augmented reality applications on iOS and Android, web applications, interactive kiosks and immersive projection shows",
+        "Collaborate with designers and creative director to form technical solutions for the proposed design solutions",
+        "Supervise a team of outsourced developers and freelancers to meet development schedule"
+      ]
+    },
+    {
+      "company": "Clam Chowder Corporation",
+      "position": "Research Intern",
+      "time": "2012 - 2013",
+      "location": "Boston, MA",
+      "points": [
+        "Conduct a feasibility research of implementing human-robot interaction with Microsoft Kinect on Robotino robot platform. Develop a TCP-based depth image streaming system from Robotino to Android devices"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "name": "Winner: Impact Awards",
+      "competition": "MIT Breaking the Mold Hackathon",
+      "project": "Superfriend, a Facebook app to tackle online harassment and support bystander intervention",
+      "team": "Superfriend",
+      "points": [
+        "Developed paper prototype and produce illustrations"
+      ]
+    },
+    {
+      "name": "Best uses of Amazon Web Services",
+      "competition": "AngelHack Silicon Valley 2017",
+      "project": "JamBuddy, personal music practice buddy on Amazon Alexa",
+      "description": "",
+      "points": [
+        "Designed voice interaction, Developed drumloop generation stack with MMA, FluidSynth and liblame"
+      ]
+    },
+    {
+      "name": "Third Runner-up",
+      "competition": "Blockchain Hackathon: Bitcoin for your thoughts? San Francisco",
+      "project": "Bstream, Bitcoin-enabled Pay-per-second music streaming",
+      "points": [
+        "UI Design and Frontend Development with ReactJS"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Killer App",
+      "description": "Social Media Platform",
+      "points": [
+        "Skills: User Experience Design, ReactJS, Backend Architecture on Google Cloud Platform"
+      ]
+    },
+    {
+      "name": "Financial Trading Robot",
+      "description": "Financial trading robot using Elliot Wave algorithm",
+      "points": [
+        "Skills: Eyetracking Device Integration, Chrome App Development, AngularJS"
+      ]
+    },
+    {
+      "name": "Acme Admin Panel",
+      "description": "User Management Panel",
+      "points": [
+        "Skills: UI Design, Product Strategy, Project Management"
+      ]
+    },
+    {
+      "name": "Catpic Slack Plugin",
+      "description": "Slack plugin showing cat pictures",
+      "points": [
+        "Skills: UX Design, Backend Development"
+      ]
+    }
+  ],
+  "skillCategories": [
+    {
+      "name": "Coding", 
+      "skills": [
+        {
+          "name": "Javascript"
+        },
+        {
+          "name": "ReactJS"
+        },
+        {
+          "name": "AngularJS"
+        },
+        {
+          "name": "NodeJS"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Java"
+        },
+        {
+          "name": "Swift"
+        },
+        {
+          "name": "iOS Dev."
+        },
+        {
+          "name": "Android Dev."
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "WebGL"
+        }
+      ]
+    },
+    {
+      "name": "DevOps", 
+      "skills": [
+        {
+          "name": "Cloud Deployment"
+        },
+        {
+          "name": "Continuous Integration"
+        },
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "Linux Administration"
+        }
+      ]
+    },
+    {
+      "name": "Data Science", 
+      "skills": [
+        {
+          "name": "R"
+        },
+        {
+          "name": "R Studio"
+        },
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "skills": [
+        {
+          "name": "Wireframing"
+        },
+        {
+          "name": "Prototyping"
+        },
+        {
+          "name": "Sketch"
+        },
+        {
+          "name": "Adobe Illustrator"
+        },
+        {
+          "name": "Marvel"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Thai",
+      "level": 5.0
+    }, 
+    {
+      "language": "English",
+      "level": 5.0
+    },
+    {
+      "language": "Germany",
+      "level": 1.0
+    }
+  ]
+}
